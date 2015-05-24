@@ -40,7 +40,9 @@ Type=Fixed
 [48x48/actions]
 Context=Actions
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=256
+Type=Scalable
 
 [64x64/actions]
 Context=Actions
@@ -87,7 +89,9 @@ Type=Fixed
 [48x48/apps]
 Context=Applications
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=256
+Type=Scalable
 
 [64x64/apps]
 Context=Applications
@@ -129,7 +133,9 @@ Type=Fixed
 [48x48/categories]
 Context=Categories
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=256
+Type=Scalable
 
 [64x64/categories]
 Context=Categories
@@ -170,7 +176,9 @@ Type=Fixed
 [48x48/devices]
 Context=Devices
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=256
+Type=Scalable
 
 [64x64/devices]
 Context=Devices
@@ -211,7 +219,9 @@ Type=Fixed
 [48x48/emblems]
 Context=Emblems
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=256
+Type=Scalable
 
 [64x64/emblems]
 Context=Emblems
@@ -252,7 +262,9 @@ Type=Fixed
 [48x48/emotes]
 Context=Emotes
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=256
+Type=Scalable
 
 [64x64/emotes]
 Context=Emotes
@@ -293,7 +305,9 @@ Type=Fixed
 [48x48/mimetypes]
 Context=MimeTypes
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=256
+Type=Scalable
 
 [64x64/mimetypes]
 Context=MimeTypes
@@ -319,7 +333,9 @@ Type=Scalable
 [48x48/notifications]
 Context=Status
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=256
+Type=Scalable
 
 
 # Panel
@@ -355,7 +371,9 @@ Type=Fixed
 [48x48/places]
 Context=Places
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=256
+Type=Scalable
 
 [64x64/places]
 Context=Places
@@ -396,7 +414,9 @@ Type=Fixed
 [48x48/status]
 Context=Status
 Size=48
-Type=Fixed
+MinSize=48
+MaxSize=256
+Type=Scalable
 
 [64x64/status]
 Context=Status
